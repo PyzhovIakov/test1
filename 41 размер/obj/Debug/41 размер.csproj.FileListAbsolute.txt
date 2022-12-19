@@ -1,0 +1,26 @@
+c:\users\user\documents\visual studio 2013\Projects\41 размер\41 размер\bin\Debug\41 размер.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\41 размер.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\41 размер.csproj.41 размер.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\_41_размер.Forms.Auth.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\_41_размер.Forms.Menu.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\_41_размер.Forms.Order.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\_41_размер.Forms.ViewProduct.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\_41_размер.Forms.WorkOrder.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\_41_размер.Forms.WorkProduct.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\_41_размер.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\41 размер.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\B320R5.jpg
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\D329H3.jpg
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\D572U8.jpg
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\F572H7.jpg
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\F635R4.jpg
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\G432E4.jpg
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\G783F5.jpg
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\H782T5.jpg
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\J384T6.jpg
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\picture.png
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\Images\А112Т4.jpg
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\41 размер.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\bin\Debug\41 размер.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\41 размер.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\41 размер\41 размер\obj\Debug\41 размер.pdb
